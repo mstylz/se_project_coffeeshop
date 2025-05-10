@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+In the future, I would like to enhance the website by adding accessibility improvements and making it fully responsive for mobile devices. I’m also interested in incorporating JavaScript to make the form interactive and validate input in real-time.
