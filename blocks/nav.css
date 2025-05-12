@@ -6,11 +6,13 @@
 .nav__logo {
   position: relative;
   left: -50px;
+  width: 105px;
+  height: 39px;
 }
 
 .nav__links {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   column-gap: 20px;
   list-style-type: none;
   padding: 0;
